@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:170D16,25:40152E,60:922D60,100:E06A9B&height=230&section=header&text=OMIKA%20KUMAR&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20STUDENT%20%7C%20DEVELOPER&descAlignY=58&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:170D16,25:40152E,60:922D60,100:E06A9B&height=150&section=header&text=OMIKA%20KUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=AI%2FML%20STUDENT%20%7C%20DEVELOPER&descAlignY=60&descSize=16)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E88AB8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Projects+That+Matter;Exploring+Computer+Vision+%26+AI;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=E88AB8&center=true&vCenter=true&height=35&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Projects+That+Matter;Exploring+Computer+Vision+%26+AI;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
 
 <br/>
 
@@ -14,42 +14,47 @@
 
 ---
 
-## ABOUT ME
+## 👩🏻‍💻 ABOUT ME
 
 Hey! I'm **Omika Kumar**, an undergraduate student passionate about technology, intelligent systems and creative problem-solving.
 
-- B.Tech in Artificial Intelligence & Machine Learning at ABES Engineering College.
-- Pursuing BS in Data Science from IIT Madras.
-- Interested in Artificial Intelligence, Machine Learning and Deep Learning.
-- Exploring Computer Vision and Vision-Language Models.
-- Learning Web Development and Cybersecurity.
-- I enjoy building projects that combine technology with real-world applications.
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning at ABES Engineering College.
+- 📊 Pursuing BS in Data Science from IIT Madras.
+- 🤖 Interested in Artificial Intelligence, Machine Learning and Deep Learning.
+- 👁️ Exploring Computer Vision and Vision-Language Models.
+- 💻 Learning Web Development and Cybersecurity.
+- 🚀 I enjoy building projects that combine technology with real-world applications.
 
 ---
 
-## TECH STACK
+## 🛠️ TECH STACK
 
 <div align="center">
 
-**Programming Languages**
+### 💻 Programming Languages
 
-`Python` `C++` `JavaScript` `HTML` `CSS`
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
 
-**Libraries & Frameworks**
+### ⚙️ Frameworks & Libraries
 
-`OpenCV` `Scikit-learn` `React`
+<img src="https://skillicons.dev/icons?i=react,opencv&theme=dark" />
 
-**Tools & Platforms**
+<br/>
 
-`Git` `GitHub` `VS Code` `Linux` `Streamlit`
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 </div>
 
 ---
 
-## FEATURED PROJECTS
+## 🚀 FEATURED PROJECTS
 
-### 01 / CAPMeNot
+### 01 | 🛡️ CAPMeNot
 
 **AI-powered browser safety assistant**
 
@@ -61,7 +66,7 @@ A browser-based safety assistant focused on identifying suspicious messages, sca
 
 ---
 
-### 02 / Student Performance Classifier
+### 02 | 📊 Student Performance Classifier
 
 **Machine Learning based prediction application**
 
@@ -79,7 +84,7 @@ A machine learning application that predicts student performance using academic 
 
 ---
 
-### 03 / Gesture-Control
+### 03 | ✋ Gesture-Control
 
 **Computer Vision based gesture interaction**
 
@@ -91,7 +96,7 @@ A non-contact interaction project using hand gestures, including finger-based dr
 
 ---
 
-### 04 / Vision Hallucination Verification
+### 04 | 👁️ Vision Hallucination Verification
 
 **Evidence-grounded hallucination detection framework**
 
@@ -103,23 +108,27 @@ A framework for fine-grained detection and severity assessment of hallucinations
 
 ---
 
-## CURRENTLY LEARNING
-
-| Area | Focus |
-|---|---|
-| Artificial Intelligence | Machine Learning & Deep Learning |
-| Computer Vision | Object Detection & VLMs |
-| Web Development | JavaScript & React |
-| Cybersecurity | Security Fundamentals |
-| Problem Solving | Data Structures & Algorithms |
-
----
-
-## GITHUB
+## 🌱 CURRENTLY LEARNING
 
 <div align="center">
 
-**13 Public Repositories · Always Learning · Always Building**
+| 💡 Domain | 📚 Learning Focus |
+|:---|:---|
+| 🤖 Artificial Intelligence | Machine Learning & Deep Learning |
+| 👁️ Computer Vision | Object Detection & VLMs |
+| 🌐 Web Development | JavaScript & React |
+| 🔐 Cybersecurity | Security Fundamentals |
+| 🧠 Problem Solving | Data Structures & Algorithms |
+
+</div>
+
+---
+
+## 📊 GITHUB
+
+<div align="center">
+
+**Always Learning · Always Building · Always Improving**
 
 [![Repositories](https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-71334F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OK007-code?tab=repositories)
 
@@ -129,7 +138,7 @@ A framework for fine-grained detection and severity assessment of hallucinations
 
 ---
 
-## LET'S CONNECT
+## 🤝 LET'S CONNECT
 
 <div align="center">
 
@@ -143,4 +152,4 @@ I'm always interested in exploring new technologies, collaborating on meaningful
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:170D16,40:40152E,75:922D60,100:E06A9B&height=130&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:170D16,40:40152E,75:922D60,100:E06A9B&height=100&section=footer&animation=fadeIn)
